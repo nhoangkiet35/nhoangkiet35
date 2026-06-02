@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's Up? I'm Hoang Kiet</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nhoangkiet35/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.youtube.com/@ethannguyen047"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="mailto:nhoangkiet35@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=email&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-  <a href="https://dev.to/nhoangkiet35"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <a href="https://www.linkedin.com/in/nhoangkiet35/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.youtube.com/@ethannguyen047" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="mailto:nhoangkiet35@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=email&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="https://dev.to/nhoangkiet35" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
 </div>
 
 # 💻 Tech Stack:
