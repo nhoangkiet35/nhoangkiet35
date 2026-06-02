@@ -36,13 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nhoangkiet35/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ethannguyen047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nhoangkiet35@gmail.com) 
 
@@ -61,6 +54,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nhoangkiet35&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Created Repositories
+![Repos I created](https://github-contrib-stats.vercel.app/nhoangkiet35/created.svg)
+
+### 📋 Contributed Repositories
+![Repos I contributed to](https://github-contrib-stats.vercel.app/nhoangkiet35/contributed.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=nhoangkiet35&icon=10&color=0)](https://visitcount.itsvg.in)
