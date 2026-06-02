@@ -52,17 +52,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nhoangkiet35&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### Created Repositories
+### 📋 Created Repositories
 ![Repos I created](https://github-contrib-stats.vercel.app/nhoangkiet35/created.svg)
 
-### 📋 Contributed Repositories
+### 🔝 Contributed Repositories
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/nhoangkiet35/contributed.svg)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nhoangkiet35&icon=10&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nhoangkiet35&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
